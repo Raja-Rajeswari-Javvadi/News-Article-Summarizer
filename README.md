@@ -29,3 +29,5 @@ It uses the **Facebook BART-Large-CNN** model from **Hugging Face Transformers**
 | **Hosting (optional)** | ngrok / Render / Vercel |
 
 ---
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/20a6633f-db0b-4f66-bd30-0d4a590dee6b" />
+
